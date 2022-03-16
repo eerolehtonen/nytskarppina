@@ -1,0 +1,2 @@
+# nytskarppina
+Johdatus datatieteeseen -kurssi
