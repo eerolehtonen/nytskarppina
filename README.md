@@ -1,2 +1,2 @@
 # nytskarppina
-Johdatus datatieteeseen -kurssi
+Kasa harjoitustöitä
